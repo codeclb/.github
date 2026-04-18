@@ -70,6 +70,66 @@ By the end of the program, members will have:
 
 ---
 
+## 🧠 Why This Model Works
+
+This program is based on real mentorship programs I ran at **Salomon Brothers, Citigroup, EZOPS, RiskFocus, and Ness**.
+
+In those environments we:
+
+* Took engineers with **0–2 years experience**
+* Invested **3–5 months of structured training**
+* Made them **fully billable in real client environments**
+
+This wasn’t resume prep—it was about getting people to the point where they could **actually deliver**.
+
+---
+
+## ⚠️ The Gap
+
+Helping with resumes and LinkedIn is useful—but it doesn’t get people hired.
+
+Hiring managers are not looking for polish.
+
+They are looking for:
+
+👉 **Proof you can do the work**
+
+---
+
+## 🏁 Capstone + Network
+
+Each cycle ends with a **capstone presentation**.
+
+We invite people from our network:
+
+* Engineers
+* Managers
+* Industry contacts
+
+The goal is simple:
+
+👉 Turn real work into **real opportunities**
+
+---
+
+## 🏢 For Companies
+
+CodeClub is building a pipeline of engineers who can **execute immediately**.
+
+Members have:
+
+* Built real systems
+* Worked in sprint-based teams
+* Delivered measurable output
+
+Ways to engage:
+
+* Attend capstone presentations
+* Provide feedback
+* Connect with members
+
+---
+
 ## 🧭 Philosophy
 
 > **Consistency beats intensity**  
@@ -155,3 +215,4 @@ We collaborate with companies to develop **high-performing, execution-ready engi
 <p align="center">
   <strong>Built for people who ship.</strong>
 </p>
+
