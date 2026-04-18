@@ -70,6 +70,24 @@ By the end of the program, members will have:
 
 ---
 
+## 🧭 Philosophy
+
+> **Consistency beats intensity**  
+> **Execution beats intention**  
+> **Shipping beats perfection**
+
+---
+
+## 📋 What Members Should Expect
+
+- Structured Agile workflow  
+- Real accountability  
+- Measurable progress  
+- Capstone-driven learning  
+- Feedback from practitioners  
+- Emphasis on communication, delivery, and technical depth  
+---
+
 ## 🛠 Platform
 
 We operate like a real engineering team:
@@ -108,25 +126,7 @@ We operate like a real engineering team:
 - 🔗 [Subash Chandra - LinkedIn](https://www.linkedin.com/in/subashchandra2023/)  
 - 🔗 [Bernard Bollinger - LinkedIn](https://www.linkedin.com/in/bernard-bollinger/)  
 - 🔗 [Benjamin Malberg - LinkedIn](https://www.linkedin.com/in/benjamin-malberg/)  
-
----
-
-## 🧭 Philosophy
-
-> **Consistency beats intensity**  
-> **Execution beats intention**  
-> **Shipping beats perfection**
-
----
-
-## 📋 What Members Should Expect
-
-- Structured Agile workflow  
-- Real accountability  
-- Measurable progress  
-- Capstone-driven learning  
-- Feedback from practitioners  
-- Emphasis on communication, delivery, and technical depth  
+- 🔗 [Samuel Yakubov - LinkedIn](https://www.linkedin.com/in/sam-yakubov/)  
 
 ---
 
