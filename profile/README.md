@@ -1,7 +1,7 @@
 # 🚀 CodeClub
 
 <p align="center">
-  <img src="photos/CodeClub-logo.png" width="160"/>
+  <img src="CodeClub-logo.png" width="160"/>
 </p>
 
 <p align="center">
