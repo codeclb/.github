@@ -163,8 +163,8 @@ We operate like a real engineering team:
 
 | Photo | Profile |
 |------|---------|
-| ![Raghuram](photos/raghuram.png) | **Raghuram Selvaraj** <br> 🔗 [View LinkedIn](https://www.linkedin.com/in/raghuselvaraj/) |
-| ![Karthik](photos/karthik.png) | **Karthik Selvaraj** <br> 🔗 [View LinkedIn](https://www.linkedin.com/in/karthik-selvaraj-purdue/) |
+|<img src="photos/raghuram.png" width="140" height="140" style="object-fit: cover;"/>| **Raghuram Selvaraj** <br> 🔗 [View LinkedIn](https://www.linkedin.com/in/raghuselvaraj/) |
+| <img src="photos/karthik.png" width="140" height="140" style="object-fit: cover;"/>| **Karthik Selvaraj** <br> 🔗 [View LinkedIn](https://www.linkedin.com/in/karthik-selvaraj-purdue/) |
 
 ---
 
@@ -172,9 +172,8 @@ We operate like a real engineering team:
 
 | Photo | Profile |
 |------|---------|
-| ![Jim Zucker](photos/jim.png) | **Jim Zucker** <br> 🔗 [View LinkedIn](https://www.linkedin.com/in/jim-zucker/) |
-| ![Sean Brandow](photos/sean.png) | **Sean brandow** <br> 🔗 [View LinkedIn](https://www.linkedin.com/in/seanbrandow/) |
-
+| <img src="photos/jim.png" width="140" height="140" style="object-fit: cover;"/> | **Jim Zucker** <br> 🔗 [View LinkedIn](https://www.linkedin.com/in/jim-zucker/) |
+| <img src="photos/sean.png" width="140" height="140" style="object-fit: cover;"/> | **Sean Brandow** <br> 🔗 [View LinkedIn](https://www.linkedin.com/in/seanbrandow/) |
 ---
 
 ## 🌟 Alumni
