@@ -173,6 +173,7 @@ We operate like a real engineering team:
 | Photo | Profile |
 |------|---------|
 | ![Jim Zucker](photos/jim.png) | **Jim Zucker** <br> 🔗 [View LinkedIn](https://www.linkedin.com/in/jim-zucker/) |
+| ![Sean Brandow](photos/sean.png) | **Sean brandow** <br> 🔗 [View LinkedIn](https://www.linkedin.com/in/seanbrandow/) |
 
 ---
 
