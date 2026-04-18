@@ -1,48 +1,86 @@
-<p align="center">
-  <img src="CodeClub-logo.png" alt="CodeClub" width="120">
-</p>
-
-<h1 align="center">🚀 CodeClub</h1>
+# 🚀 CodeClub
 
 <p align="center">
-  <strong>Invite-only mentorship program focused on execution, delivery, and real-world growth.</strong>
+  <img src="photos/CodeClub-logo.png" width="160"/>
 </p>
 
 <p align="center">
-  <a href="https://jira.codeclub.info/"><img src="https://img.shields.io/badge/JIRA-Active-blue?logo=jira" alt="JIRA"></a>
-  <a href="https://wiki.codeclub.info/"><img src="https://img.shields.io/badge/Confluence-Workspace-172B4D?logo=confluence" alt="Confluence"></a>
-  <a href="https://git.codeclub.info/"><img src="https://img.shields.io/badge/GitHub-Code-black?logo=github" alt="GitHub"></a>
+  <strong>Invite-only mentorship program for builders focused on execution, delivery, and real-world outcomes.</strong>
 </p>
 
 ---
 
-> [!IMPORTANT]
-> **CodeClub is commitment-driven.**  
-> This is not a passive learning group. Members are expected to contribute, deliver, and improve every sprint.
+## 🔥 Why CodeClub Exists
+
+Most programs focus on learning.  
+**CodeClub focuses on shipping.**
+
+- No passive participation  
+- No theory without execution  
+- No spectators — only builders  
+
+Members are expected to **deliver real work every sprint**.
 
 ---
 
-## Overview
+## ⚡ Commitment First
 
-CodeClub is an invite-only mentorship program where members commit to a structured Agile process to accelerate their skills through **real execution**.
+CodeClub is **commitment-driven**.
 
-### Each member is expected to:
-- Follow an industry-standard Agile process
-- Set measurable goals
-- Continuously improve
-- Build and present a capstone project
+- ⏱ ~16 hours per week  
+- 📅 2-week sprints  
+- 🎯 Measurable deliverables every cycle  
 
----
-
-## Cadence
-
-- **Sprint Length:** 2 weeks  
-- **Sprint Commitment:** Minimum ~16 hours/week  
-- **Capstone Project:** Delivered in the member’s chosen domain and presented to a panel from our network
+This is not a course.  
+This is a **performance environment**.
 
 ---
 
-## Current Members
+## 📦 Program Overview
+
+CodeClub is a structured, sprint-driven mentorship program designed to accelerate real-world engineering skills through execution.
+
+Members:
+
+- Follow Agile practices (JIRA-driven sprints)  
+- Work in real delivery cycles  
+- Build production-quality projects  
+- Present a final capstone  
+
+---
+
+## ⏱️ Cadence
+
+- Sprint Length: **2 weeks**  
+- Commitment: **~16 hours/week**  
+- Duration: **Multi-sprint program**  
+- Outcome: **Capstone project + final presentation**
+
+---
+
+## 🏆 Outcomes
+
+By the end of the program, members will have:
+
+- 🚀 A production-quality project  
+- 📊 Experience delivering under real deadlines  
+- 🧠 Strong Agile execution habits  
+- 🗣 Ability to present and defend technical work  
+- 💼 A portfolio ready for employers  
+
+---
+
+## 🛠 Platform
+
+We operate like a real engineering team:
+
+- 🔗 JIRA → Sprint execution  
+- 📘 Confluence → Documentation & knowledge base  
+- 💻 GitHub → Code, PRs, and delivery  
+
+---
+
+## 👥 Members
 
 | Photo | Profile |
 |------|---------|
@@ -51,7 +89,7 @@ CodeClub is an invite-only mentorship program where members commit to a structur
 
 ---
 
-## Coaches
+## 🧑‍🏫 Coaches
 
 | Photo | Profile |
 |------|---------|
@@ -59,21 +97,21 @@ CodeClub is an invite-only mentorship program where members commit to a structur
 
 ---
 
-## Alumni
+## 🌟 Alumni
 
 **CodeClub & Prior Mentoring by our Coaches**
 
-- 🔗 [Jeffrey Hu - LinkedIn](https://www.linkedin.com/in/hu-jeffrey/)
-- 🔗 [Andrew Crerar - LinkedIn](https://www.linkedin.com/in/andrew-crerar-b20116b0/)
-- 🔗 [Ronan Fitzpatrick - LinkedIn](https://www.linkedin.com/in/ronanfitz13/)
-- 🔗 [Adam Furth - LinkedIn](https://www.linkedin.com/in/afurth/)
-- 🔗 [Subash Chandra - LinkedIn](https://www.linkedin.com/in/subashchandra2023/)
-- 🔗 [Bernard Bollinger - LinkedIn](https://www.linkedin.com/in/bernard-bollinger/)
-- 🔗 [Benjamin Malberg - LinkedIn](https://www.linkedin.com/in/benjamin-malberg/)
+- 🔗 [Jeffrey Hu - LinkedIn](https://www.linkedin.com/in/hu-jeffrey/)  
+- 🔗 [Andrew Crerar - LinkedIn](https://www.linkedin.com/in/andrew-crerar-b20116b0/)  
+- 🔗 [Ronan Fitzpatrick - LinkedIn](https://www.linkedin.com/in/ronanfitz13/)  
+- 🔗 [Adam Furth - LinkedIn](https://www.linkedin.com/in/afurth/)  
+- 🔗 [Subash Chandra - LinkedIn](https://www.linkedin.com/in/subashchandra2023/)  
+- 🔗 [Bernard Bollinger - LinkedIn](https://www.linkedin.com/in/bernard-bollinger/)  
+- 🔗 [Benjamin Malberg - LinkedIn](https://www.linkedin.com/in/benjamin-malberg/)  
 
 ---
 
-## Philosophy
+## 🧭 Philosophy
 
 > **Consistency beats intensity**  
 > **Execution beats intention**  
@@ -81,37 +119,39 @@ CodeClub is an invite-only mentorship program where members commit to a structur
 
 ---
 
-<details>
-<summary><strong>What members should expect</strong></summary>
+## 📋 What Members Should Expect
 
-<br>
-
-- Structured Agile workflow
-- Real accountability
-- Measurable progress
-- Capstone-driven learning
-- Feedback from practitioners
-- Emphasis on communication, delivery, and technical depth
-
-</details>
+- Structured Agile workflow  
+- Real accountability  
+- Measurable progress  
+- Capstone-driven learning  
+- Feedback from practitioners  
+- Emphasis on communication, delivery, and technical depth  
 
 ---
 
 ## 🤝 Partner With CodeClub
 
-We collaborate with companies to develop high-performing engineers through real-world execution.
+We collaborate with companies to develop **high-performing, execution-ready engineers**.
 
 ### What companies get:
-- 🚀 Access to vetted, execution-focused engineers
-- 📦 Capstone projects aligned to real business problems
-- 🎯 Talent pipeline with proven delivery experience
-- ⚡ Engineers trained in Agile, Kafka, Streaming, and modern cloud stacks
+
+- 🚀 Access to vetted, execution-focused engineers  
+- 📦 Capstone projects aligned to real business problems  
+- 🎯 Talent pipeline with proven delivery experience  
+- ⚡ Engineers trained in Agile, Kafka, Streaming, and modern cloud stacks  
 
 ### Engagement Models:
-- Sponsor a capstone project
-- Provide real-world problem statements
-- Mentor or guest judge final presentations
-- Hire directly from the program
+
+- Sponsor a capstone project  
+- Provide real-world problem statements  
+- Mentor or guest judge final presentations  
+- Hire directly from the program  
 
 📩 **Contact:** jim@codeclub.info
 
+---
+
+<p align="center">
+  <strong>Built for people who ship.</strong>
+</p>
