@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="photos/codeclub-logo.png" alt="CodeClub" width="120">
+  <img src="CodeClub-logo.png" alt="CodeClub" width="120">
 </p>
 
 <h1 align="center">🚀 CodeClub</h1>
