@@ -15,9 +15,9 @@
 Most programs focus on learning.  
 **CodeClub focuses on shipping.**
 
-- No passive participation  
-- No theory without execution  
-- No spectators — only builders  
+- No passive participation
+- No theory without execution
+- No spectators — only builders
 
 Members are expected to **deliver real work every sprint**.
 
@@ -31,8 +31,7 @@ CodeClub is **commitment-driven**.
 - 📅 2-week sprints  
 - 🎯 Measurable deliverables every cycle  
 
-This is not a course.  
-This is a **performance environment**.
+This is not a course. This is a performance environment.This is a **performance environment**.
 
 ---
 
@@ -72,15 +71,17 @@ By the end of the program, members will have:
 
 ## 🧠 Why This Model Works
 
-This program is based on real mentorship programs I ran at **Salomon Brothers, Citigroup, EZOPS, RiskFocus, and Ness**.
+This program is based on real mentorship programs run at **EZOPS, RiskFocus, and Ness**.
 
 In those environments we:
 
 * Took engineers with **0–2 years experience**
 * Invested **3–5 months of structured training**
-* Made them **fully billable in real client environments**
+* Developed them into **fully billable, client-ready engineers**
 
-This wasn’t resume prep—it was about getting people to the point where they could **actually deliver**.
+This wasn’t resume coaching.
+
+It produced engineers who could **actually deliver in real environments**.
 
 ---
 
