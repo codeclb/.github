@@ -71,7 +71,7 @@ By the end of the program, members will have:
 
 ## 🧠 Why This Model Works
 
-This program is based on real mentorship programs run at **Salomon Brothers, Citigroup, EZOPS, RiskFocus, and Ness**.
+This program is based on real mentorship programs I ran at **Salomon Brothers, Citigroup, EZOPS, RiskFocus, and Ness**.
 
 In those environments we:
 
