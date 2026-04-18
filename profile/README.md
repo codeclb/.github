@@ -31,7 +31,7 @@ CodeClub is **commitment-driven**.
 - 📅 2-week sprints  
 - 🎯 Measurable deliverables every cycle  
 
-This is not a course. This is a performance environment.This is a **performance environment**.
+This is not a course. This is a **performance environment**.
 
 ---
 
