@@ -10,8 +10,8 @@
 
 <p align="center">
   <a href="https://jira.codeclub.info/"><img src="https://img.shields.io/badge/JIRA-Active-blue?logo=jira" alt="JIRA"></a>
-  <a href="https://confluence.codeclub.info/"><img src="https://img.shields.io/badge/Confluence-Workspace-172B4D?logo=confluence" alt="Confluence"></a>
-  <a href="https://github.codeclub.info/"><img src="https://img.shields.io/badge/GitHub-Code-black?logo=github" alt="GitHub"></a>
+  <a href="https://wiki.codeclub.info/"><img src="https://img.shields.io/badge/Confluence-Workspace-172B4D?logo=confluence" alt="Confluence"></a>
+  <a href="https://git.codeclub.info/"><img src="https://img.shields.io/badge/GitHub-Code-black?logo=github" alt="GitHub"></a>
 </p>
 
 ---
