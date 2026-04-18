@@ -173,7 +173,15 @@ We operate like a real engineering team:
 | Photo | Profile |
 |------|---------|
 | <img src="photos/jim.png" width="140" height="140" style="object-fit: cover;"/> | **Jim Zucker** <br> 🔗 [View LinkedIn](https://www.linkedin.com/in/jim-zucker/) |
+
+---
+
+## 🧑‍🏫 Advisors
+
+| Photo | Profile |
+|------|---------|
 | <img src="photos/sean.png" width="140" height="140" style="object-fit: cover;"/> | **Sean Brandow** <br> 🔗 [View LinkedIn](https://www.linkedin.com/in/seanbrandow/) |
+
 ---
 
 ## 🌟 Alumni
