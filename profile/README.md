@@ -39,8 +39,8 @@ Each member chooses a course of study and is expected to:
 
 | Photo                            | Profile                                                                             |
 | -------------------------------- | ----------------------------------------------------------------------------------- |
-| ![Raghuram](images/raghuram.png) | **Raghuram Selvaraj**  <br> 🔗 https://www.linkedin.com/in/raghuselvaraj/           |
-| ![Karthik](images/karthik.png)   | **Karthik Selvaraj**   <br> 🔗 https://www.linkedin.com/in/karthik-selvaraj-purdue/ |
+| ![Raghuram](photos/raghuram.png) | **[Raghuram Selvaraj - LinkedIn](https://www.linkedin.com/in/raghuselvaraj/)** |
+| ![Karthik](photos/karthik.png)   | **[Karthik Selvaraj - LinkedIn](https://www.linkedin.com/in/karthik-selvaraj-purdue/)** |
 
 ---
 
@@ -48,7 +48,7 @@ Each member chooses a course of study and is expected to:
 
 | Photo                                | Profile                                                         |
 | ------------------------------------ | --------------------------------------------------------------- |
-| ![Jim Zucker](images/jim.png) | **Jim Zucker**  <br> 🔗 https://www.linkedin.com/in/jim-zucker/ |
+| ![Jim Zucker](photos/jim.png) | **[Jim Zucker - LinkedIn](https://www.linkedin.com/in/jim-zucker/)** |
 
 ---
 
@@ -56,13 +56,13 @@ Each member chooses a course of study and is expected to:
 
 **CodeClub & Prior Mentoring by our Coaches**
 
-* 🔗 https://www.linkedin.com/in/hu-jeffrey/
-* 🔗 https://www.linkedin.com/in/andrew-crerar-b20116b0/
-* 🔗 https://www.linkedin.com/in/ronanfitz13/
-* 🔗 https://www.linkedin.com/in/afurth/
-* 🔗 https://www.linkedin.com/in/subashchandra2023/
-* 🔗 https://www.linkedin.com/in/bernard-bollinger/
-* 🔗 https://www.linkedin.com/in/benjamin-malberg/
+* 🔗 [Jeffrey Hu - LinkedIn](https://www.linkedin.com/in/hu-jeffrey/)
+* 🔗 [Andrew Crerar - LinkedIn](https://www.linkedin.com/in/andrew-crerar-b20116b0/)
+* 🔗 [Ronan Fitzpatrick - LinkedIn](https://www.linkedin.com/in/ronanfitz13/)
+* 🔗 [Adam Furth - LinkedIn](https://www.linkedin.com/in/afurth/)
+* 🔗 [Subash Chandra - LinkedIn](https://www.linkedin.com/in/subashchandra2023/)
+* 🔗 [Bernard Bollinger - LinkedIn](https://www.linkedin.com/in/bernard-bollinger/)
+* 🔗 [Benjamin Malberg - LinkedIn](https://www.linkedin.com/in/benjamin-malberg/)
 
 ---
 
