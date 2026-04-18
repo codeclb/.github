@@ -42,16 +42,6 @@ CodeClub is an invite-only mentorship program where members commit to a structur
 
 ---
 
-## Platforms
-
-| Tool | Access |
-|------|--------|
-| JIRA | [Open Workspace](https://jira.codeclub.info/) |
-| Confluence | [Open Workspace](https://confluence.codeclub.info/) |
-| GitHub | [Open Repository](https://github.codeclub.info/) |
-
----
-
 ## Current Members
 
 | Photo | Profile |
@@ -124,3 +114,4 @@ We collaborate with companies to develop high-performing engineers through real-
 - Hire directly from the program
 
 📩 **Contact:** jim@codeclub.info
+
